@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
+  <diagram name="Page-1" id="jO6ULZCjDjud_-xT5EoJ">
+    <mxGraphModel dx="1164" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xHBdFLJgjMlQDBCtddSQ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=1" value="EVALUATION WINDOW (UTILITY COMPUTED)" vertex="1">
+          <mxGeometry height="60" width="520" x="40" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xHBdFLJgjMlQDBCtddSQ-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontStyle=1;fillStyle=auto;" value="LNS PLANNING HORIZON (BUFFER)" vertex="1">
+          <mxGeometry height="60" width="720" x="40" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="xHBdFLJgjMlQDBCtddSQ-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeColor=default;dashed=1;dashPattern=8 4 1 4;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="210" as="sourcePoint" />
+            <mxPoint x="760" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHBdFLJgjMlQDBCtddSQ-6" connectable="0" parent="xHBdFLJgjMlQDBCtddSQ-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;48 hh&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.008" y="1" as="geometry">
+            <mxPoint x="153" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHBdFLJgjMlQDBCtddSQ-8" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" value="60&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;hh&lt;/span&gt;" vertex="1">
+          <mxGeometry x="860" y="190" as="geometry">
+            <mxPoint x="-92" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHBdFLJgjMlQDBCtddSQ-9" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" value="0h" vertex="1">
+          <mxGeometry x="60" y="190" as="geometry">
+            <mxPoint x="-24" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHBdFLJgjMlQDBCtddSQ-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;" value="" vertex="1">
+          <mxGeometry height="60" width="200" x="560" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="xHBdFLJgjMlQDBCtddSQ-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="OBs may extend into this region" vertex="1">
+          <mxGeometry height="30" width="130" x="595" y="340" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
